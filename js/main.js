@@ -11,7 +11,7 @@ webix.ready(function () {
             align: "left",
             css: "app_button",
             click: function () {
-              $$("$sidebar1").toggle();
+              $$("sidebar").toggle();
             }
           },
           {
