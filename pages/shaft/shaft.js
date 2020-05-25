@@ -13,11 +13,11 @@ webix.ajax('data/shafts.json', function (text) {
         },
         template: function (obj) {
             return `
-            <div class="shaft">
-                <img class="icon" src="icon/${obj.icon}.png" alt="${obj.icon}" style="width: 32px;">
-                <span class="name">${obj.name}</span>
-                <span class="level">Уровень: ${obj.level}; ${(obj.pvp ? 'PVP' : 'PVE')}</span>
-            </div>
+                <div class="shaft">
+                    <img class="icon" src="icon/${obj.icon}.png" alt="${obj.icon}" style="width:32px;height:32px;">
+                    <span class="name">${obj.name}</span>
+                    <span class="level">Уровень: ${obj.level}; ${(obj.pvp ? 'PVP' : 'PVE')}</span>
+                </div>
             `;
         },
         tooltip: function (obj) {

@@ -1,0 +1,152 @@
+[
+    {
+        "icon": "minecraft__oak_sapling",
+        "name": "Саженец",
+        "getting": "Шахта Листва"
+    },
+    {
+        "icon": "minecraft__string",
+        "name": "Нить",
+        "getting": "Шахта Шерсть"
+    },
+    {
+        "icon": "minecraft__bone",
+        "name": "Древние останки",
+        "getting": "Шахта Песчаник"
+    },
+    {
+        "icon": "minecraft__dead_tube_coral_fan",
+        "name": "Горнорудная пыль",
+        "getting": "Шахта Камень"
+    },
+    {
+        "icon": "minecraft__charcoal",
+        "name": "Базальт",
+        "getting": "Шахта Андезит"
+    },
+    {
+        "icon": "minecraft__brick",
+        "name": "Кирпич",
+        "getting": "Шахта Кирпичи"
+    },
+    {
+        "icon": "minecraft__red_dye",
+        "name": "Рубин",
+        "getting": "Шахта Руды"
+    },
+    {
+        "icon": "minecraft__heart_of_the_sea",
+        "name": "Сапфир",
+        "getting": "Шахта Драгоценности"
+    },
+    {
+        "icon": "minecraft__quartz",
+        "name": "Заряженный кварц",
+        "getting": "Шахта Кварц"
+    },
+    {
+        "icon": "minecraft__horn_coral_fan",
+        "name": "Золотые самородки",
+        "getting": "Шахта Терракота"
+    },
+    {
+        "icon": "minecraft__flint",
+        "name": "Осколок керамики",
+        "getting": "Шахта Керамика"
+    },
+    {
+        "icon": "minecraft__prismarine_shard",
+        "name": "Осколок призмарина",
+        "getting": "Шахта Призмарин"
+    },
+    {
+        "icon": "minecraft__phantom_membrane",
+        "name": "Неизвестное вещество",
+        "getting": "Шахта Обсидиан"
+    },
+    {
+        "icon": "minecraft__magenta_dye",
+        "name": "Пурпурный камень",
+        "getting": "Шахта Пурпур"
+    },
+    {
+        "icon": "minecraft__fire_coral",
+        "name": "Морской коралл",
+        "getting": "Шахта Кораллы"
+    },
+    {
+        "icon": "minecraft__fire_charge",
+        "name": "Огненный камень",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__blaze_powder",
+        "name": "Адское пламя",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__gunpowder",
+        "name": "Бетонная пыль",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__red_mushroom",
+        "name": "Мухомор",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__glistering_melon_slice",
+        "name": "Сверкающий арбуз",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__magma_cream",
+        "name": "Манго",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__blue_ice",
+        "name": "Синий лёд",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__sunflower",
+        "name": "Золотая монетка",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__melon_seeds",
+        "name": "Щебень",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__firework_star",
+        "name": "Пушечное ядро",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__conduit",
+        "name": "Мусковит",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__nautilus_shell",
+        "name": "Ракушка",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__dark_oak_button",
+        "name": "Магнетит",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__lever",
+        "name": "Фитиль",
+        "getting": "Шахта ???"
+    },
+    {
+        "icon": "minecraft__shulker_shell",
+        "name": "Покрытие шалкера",
+        "getting": "Шахта Шалкеры"
+    }
+]

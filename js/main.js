@@ -32,8 +32,12 @@ webix.ready(function () {
               },
               {
                 id: "collection",
-                icon: "mdi mdi-collage red",
-                value: "Коллекции"
+                icon: "mdi mdi-collage",
+                value: "Коллекции",
+                data: [
+                  { id: "collection-mobs", icon: "mdi mdi-sword-cross red", value: "Мобы" },
+                  { id: "collection-blocks", icon: "mdi mdi-cube-outline", value: "Блоки" }
+                ]
               },
               {
                 id: "staff",
