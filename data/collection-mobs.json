@@ -12,12 +12,12 @@
     {
         "icon": "minecraft__bone_meal",
         "name": "Костная пыль",
-        "getting": "Скелеты на шахте с шалкерами"
+        "getting": "Скелеты, шахта шалкеры"
     },
     {
         "icon": "minecraft__rotten_flesh",
         "name": "Плоть зомби",
-        "getting": "Зомби на шахте с шалкерами"
+        "getting": "Зомби, шахта шалкеры"
     },
     {
         "icon": "minecraft__leather_chestplate__{Damage__0}",

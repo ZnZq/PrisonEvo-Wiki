@@ -5,7 +5,7 @@ webix.ajax('data/collection-mobs.json', function (text) {
         view: 'dataview',
         select: true,
         type: {
-            width: 250,
+            width: 255,
             height: 64,
             type: "tiles"
         },
