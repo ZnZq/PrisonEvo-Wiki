@@ -31,6 +31,9 @@ webix.ajax('data/shafts.json', function (text) {
                     </div>
                 `);
             }
+            if (obj.description) {
+                blocks.push(`<span style="padding:10px">${obj.description}</span>`);
+            }
             return `
                 <div class="blocks">
                     ${blocks.join('')}
