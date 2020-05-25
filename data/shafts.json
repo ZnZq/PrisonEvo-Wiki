@@ -612,9 +612,9 @@
     },
     {
         "icon": "minecraft__obsidian",
-        "level": "69, 71",
+        "level": "69, 71, 73",
         "pvp": true,
-        "name": "Обсидиан I, II",
+        "name": "Обсидиан I, II, III",
         "blocks": [
             {
                 "icon": "minecraft__end_stone",
@@ -625,6 +625,76 @@
                 "icon": "minecraft__obsidian",
                 "name": "Обсидиан",
                 "price": "900К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__lime_shulker_box",
+        "level": "74",
+        "pvp": true,
+        "name": "Шалкеры V",
+        "blocks": [
+            {
+                "icon": "minecraft__lime_shulker_box",
+                "name": "Лаймовый шалкеровый ящик",
+                "price": "110К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purpur_block",
+        "level": "75",
+        "pvp": true,
+        "name": "Пурпур I",
+        "blocks": [
+            {
+                "icon": "minecraft__purpur_block",
+                "name": "Пурпур",
+                "price": "120К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purpur_block",
+        "level": "77",
+        "pvp": true,
+        "name": "Пурпур II",
+        "blocks": [
+            {
+                "icon": "minecraft__purpur_block",
+                "name": "Пурпур",
+                "price": "120К"
+            },
+            {
+                "icon": "minecraft__purpur_pillar",
+                "name": "Пурпур пилон",
+                "price": "170К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purpur_block",
+        "level": "79",
+        "pvp": true,
+        "name": "Пурпур III",
+        "blocks": [
+            {
+                "icon": "minecraft__purpur_pillar",
+                "name": "Пурпуровый пилон",
+                "price": "170К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__brain_coral_block",
+        "level": "81",
+        "pvp": true,
+        "name": "Каралы I",
+        "blocks": [
+            {
+                "icon": "minecraft__brain_coral_block",
+                "name": "Блок каралла-мозговика",
+                "price": "180К"
             }
         ]
     }
