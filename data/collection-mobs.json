@@ -1,0 +1,162 @@
+[
+    {
+        "icon": "minecraft__string",
+        "name": "Нить",
+        "getting": "Пауки"
+    },
+    {
+        "icon": "minecraft__flint",
+        "name": "Крыло летучей мыши",
+        "getting": "Сундук летучей мыши"
+    },
+    {
+        "icon": "minecraft__bone_meal",
+        "name": "Костная пыль",
+        "getting": "Скелеты на шахте с шалкерами"
+    },
+    {
+        "icon": "minecraft__rotten_flesh",
+        "name": "Плоть зомби",
+        "getting": "Зомби на шахте с шалкерами"
+    },
+    {
+        "icon": "minecraft__leather_chestplate__{Damage__0}",
+        "name": "Куртка поборника",
+        "getting": ""
+    },
+    {
+        "icon": "minecraft__dried_kelp",
+        "name": "Тёмные останки",
+        "getting": ""
+    },
+    {
+        "icon": "minecraft__bone",
+        "name": "Кость скелета",
+        "getting": "Босс Древний лучник"
+    },
+    {
+        "icon": "minecraft__slime_ball",
+        "name": "Слизь",
+        "getting": "Босс Слизень"
+    },
+    {
+        "icon": "minecraft__iron_ingot",
+        "name": "Кусок железа",
+        "getting": "Босс Стальной страж"
+    },
+    {
+        "icon": "minecraft__golden_sword__{Damage__0}",
+        "name": "Меч кошмара",
+        "getting": "Босс Кошмар"
+    },
+    {
+        "icon": "minecraft__iron_sword__{Damage__0}",
+        "name": "Меч зомби",
+        "getting": "Босс Блезницы"
+    },
+    {
+        "icon": "minecraft__blaze_rod",
+        "name": "Палка повелителя огня",
+        "getting": "Босс Повелитель огня"
+    },
+    {
+        "icon": "minecraft__cobweb",
+        "name": "Паутина",
+        "getting": "Босс Паучиха"
+    },
+    {
+        "icon": "minecraft__nautilus_shell",
+        "name": "Раковина",
+        "getting": "Босс Утопленник"
+    },
+    {
+        "icon": "minecraft__leather_helmet__{Damage__0}",
+        "name": "Шляпа колдуна",
+        "getting": "Босс Колдун"
+    },
+    {
+        "icon": "minecraft__stone_sword__{Damage__0}",
+        "name": "Меч смерти",
+        "getting": "Босс Смерть"
+    },
+    {
+        "icon": "minecraft__bow__{Damage__0}",
+        "name": "Лук наездника",
+        "getting": "Босс Наездник"
+    },
+    {
+        "icon": "minecraft__iron_axe__{Damage__0}",
+        "name": "Топор разойника",
+        "getting": "Босс Разбойник"
+    },
+    {
+        "icon": "minecraft__magma_cream",
+        "name": "Сгусток магмы",
+        "getting": "Босс Лавовый куб"
+    },
+    {
+        "icon": "minecraft__spectral_arrow",
+        "name": "Стрела призрака",
+        "getting": "Босс Призрак охотник"
+    },
+    {
+        "icon": "minecraft__draggon_egg",
+        "name": "Яйцо дракона",
+        "getting": "Босс Чёрный дракон"
+    },
+    {
+        "icon": "minecraft__fermented_spider_eye",
+        "name": "Сердце гиганта",
+        "getting": "Босс Гигант"
+    },
+    {
+        "icon": "minecraft__black_banner",
+        "name": "Знамя легиона",
+        "getting": "Босс Проклятый легион"
+    },
+    {
+        "icon": "minecraft__gunpowder",
+        "name": "Порох",
+        "getting": "Босс Монстр"
+    },
+    {
+        "icon": "minecraft__nether_star",
+        "name": "Звезда",
+        "getting": "Босс Пожиратель тьмы"
+    },
+    {
+        "icon": "minecraft__iron_chestplate__{Damage__0}",
+        "name": "Нагрудник кузнеца",
+        "getting": "Босс Кузнец"
+    },
+    {
+        "icon": "minecraft__potion__{Potion__'minecraft__strong_harming'}",
+        "name": "Зелье заклинателя",
+        "getting": "Босс Заклинатель"
+    },
+    {
+        "icon": "minecraft__rotten_flesh",
+        "name": "Плоть зомби-лошади",
+        "getting": "Босс Мёртвый всадник"
+    },
+    {
+        "icon": "minecraft__iron_sword__{Damage__0}",
+        "name": "Катана самурая",
+        "getting": "Босс Самурай"
+    },
+    {
+        "icon": "minecraft__snowball",
+        "name": "Снежный шар",
+        "getting": "Босс Снежный монстр"
+    },
+    {
+        "icon": "minecraft__spider_eye",
+        "name": "Глаз червя",
+        "getting": "Червь"
+    },
+    {
+        "icon": "minecraft__paper",
+        "name": "Бинт мумии",
+        "getting": "Данж: пирамида"
+    }
+]

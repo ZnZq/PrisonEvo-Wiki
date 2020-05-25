@@ -35,7 +35,7 @@ webix.ready(function () {
                 icon: "mdi mdi-collage",
                 value: "Коллекции",
                 data: [
-                  { id: "collection-mobs", icon: "mdi mdi-sword-cross red", value: "Мобы" },
+                  { id: "collection-mobs", icon: "mdi mdi-sword-cross", value: "Мобы" },
                   { id: "collection-blocks", icon: "mdi mdi-cube-outline", value: "Блоки" }
                 ]
               },
