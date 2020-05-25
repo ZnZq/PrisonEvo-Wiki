@@ -27,7 +27,7 @@ webix.ajax('data/shafts.json', function (text) {
                 blocks.push(`
                     <div class="block">
                         <img class="icon" src="icon/${block.icon}.png" alt="${block.icon}" style="width:32px;height:32px;" title="${block.name}">
-                        <span>${block.name} ${block.price} $</span>
+                        <span>${block.name} ${block.price} ${(isNaN(Number.parseInt(block.price[0])) ? '' : '$')}</span>
                     </div>
                 `);
             }
