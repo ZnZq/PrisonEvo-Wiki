@@ -27,12 +27,12 @@ webix.ready(function () {
             id: 'sidebar',
             data: [{
                 id: "main",
-                icon: "mdi mdi-home",
+                icon: "mdi mdi-home red",
                 value: "Гравная"
               },
               {
                 id: "collection",
-                icon: "mdi mdi-collage",
+                icon: "mdi mdi-collage red",
                 value: "Коллекции"
               },
               {
@@ -52,7 +52,7 @@ webix.ready(function () {
               },
               {
                 id: "boss",
-                icon: "mdi mdi-fire",
+                icon: "mdi mdi-fire red",
                 value: "Боссы"
               },
             ],
