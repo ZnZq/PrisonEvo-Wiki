@@ -62,7 +62,7 @@ webix.ready(function () {
             id: 'sidebar',
             data: [{
                 id: "main",
-                icon: "mdi mdi-home red",
+                icon: "mdi mdi-home",
                 value: "Гравная"
               },
               {
