@@ -30,7 +30,7 @@
             "3": "320 шардов"
         },
         "descripion": "Накладывает эффект силы",
-        "cooldown": "60"
+        "cooldown": "60с"
     },
     {
         "icon": "minecraft__stone_hoe__{Damage__0}",
@@ -41,13 +41,13 @@
             "3": "280 шардов"
         },
         "descripion": "Наносит урон игроку",
-        "cooldown": "90"
+        "cooldown": "90с"
     },
     {
         "icon": "minecraft__diamond_hoe__{Damage__0}",
         "name": "Посох Шахтёра",
         "price": {},
         "descripion": "Вскапывает 1 слой шахты",
-        "cooldown": "300"
+        "cooldown": "300с"
     }
 ]
