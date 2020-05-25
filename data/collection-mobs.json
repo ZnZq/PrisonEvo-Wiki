@@ -22,12 +22,12 @@
     {
         "icon": "minecraft__leather_chestplate__{Damage__0}",
         "name": "Куртка поборника",
-        "getting": ""
+        "getting": "UNKNOWN"
     },
     {
         "icon": "minecraft__dried_kelp",
         "name": "Тёмные останки",
-        "getting": ""
+        "getting": "UNKNOWN"
     },
     {
         "icon": "minecraft__bone",
