@@ -7,7 +7,7 @@ webix.ajax('data/staffs.json', function (text) {
             let prices = [];
 
             for (let level in obj.price) {
-                prices.push(`<span>Уровень ${level} - ${obj.price[level]} шардов</span>`);
+                prices.push(`<span>Уровень ${level} - ${obj.price[level]}</span>`);
             }
 
             return `
