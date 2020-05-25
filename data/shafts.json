@@ -612,9 +612,9 @@
     },
     {
         "icon": "minecraft__obsidian",
-        "level": "69, 71, 73",
+        "level": "69, 71",
         "pvp": true,
-        "name": "Обсидиан I, II, III",
+        "name": "Обсидиан I, II",
         "blocks": [
             {
                 "icon": "minecraft__end_stone",
@@ -625,6 +625,19 @@
                 "icon": "minecraft__obsidian",
                 "name": "Обсидиан",
                 "price": "900К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__obsidian",
+        "level": "73",
+        "pvp": true,
+        "name": "Обсидиан III",
+        "blocks": [
+            {
+                "icon": "minecraft__end_stone",
+                "name": "Эндерняк",
+                "price": "105К"
             }
         ]
     },
