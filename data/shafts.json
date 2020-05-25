@@ -1,0 +1,631 @@
+[
+    {
+        "icon": "minecraft__oak_leaves",
+        "level": "1, 3",
+        "pvp": false,
+        "name": "Листва I, II",
+        "blocks": [
+            {
+                "icon": "minecraft__oak_leaves",
+                "name": "Дубовые листья",
+                "price": "0.33"
+            },
+            {
+                "icon": "minecraft__spruce_leaves",
+                "name": "Хвоя",
+                "price": "1"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__black_wool",
+        "level": "5",
+        "pvp": false,
+        "name": "Шерсть I",
+        "blocks": [
+            {
+                "icon": "minecraft__light_gray_wool",
+                "name": "Светло-серая шерсть",
+                "price": "11"
+            },
+            {
+                "icon": "minecraft__gray_wool",
+                "name": "Серая шерсть",
+                "price": "18"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__black_wool",
+        "level": "7",
+        "pvp": false,
+        "name": "Шерсть II",
+        "blocks": [
+            {
+                "icon": "minecraft__gray_wool",
+                "name": "Серая шерсть",
+                "price": "18"
+            },
+            {
+                "icon": "minecraft__black_wool",
+                "name": "Чёрная шерсть",
+                "price": "28"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__red_sandstone",
+        "level": "9, 11",
+        "pvp": false,
+        "name": "Песчаник I, II",
+        "blocks": [
+            {
+                "icon": "minecraft__sandstone",
+                "name": "Песчаник",
+                "price": "50"
+            },
+            {
+                "icon": "minecraft__red_sandstone",
+                "name": "Красный песчаник",
+                "price": "80"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__red_sandstone",
+        "level": "13",
+        "pvp": false,
+        "name": "Песчаник III",
+        "blocks": [
+            {
+                "icon": "minecraft__red_sandstone",
+                "name": "Красный песчаник",
+                "price": "80"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__stone",
+        "level": "15",
+        "pvp": false,
+        "name": "Камень I",
+        "blocks": [
+            {
+                "icon": "minecraft__cobblestone",
+                "name": "Булыжник",
+                "price": "150"
+            },
+            {
+                "icon": "minecraft__mossy_cobblestone",
+                "name": "Замшеный булыжник",
+                "price": "250"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__stone",
+        "level": "17",
+        "pvp": false,
+        "name": "Камень II",
+        "blocks": [
+            {
+                "icon": "minecraft__cobblestone",
+                "name": "Булыжник",
+                "price": "150"
+            },
+            {
+                "icon": "minecraft__mossy_cobblestone",
+                "name": "Замшеный булыжник",
+                "price": "250"
+            },
+            {
+                "icon": "minecraft__stone",
+                "name": "Камень",
+                "price": "350"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__stone",
+        "level": "19",
+        "pvp": false,
+        "name": "Камень III",
+        "blocks": [
+            {
+                "icon": "minecraft__mossy_cobblestone",
+                "name": "Замшеный булыжник",
+                "price": "250"
+            },
+            {
+                "icon": "minecraft__stone",
+                "name": "Камень",
+                "price": "350"
+            },
+            {
+                "icon": "minecraft__coal",
+                "name": "Уголь",
+                "price": "600"
+            },
+            {
+                "icon": "minecraft__iron_ingot",
+                "name": "Железный слиток",
+                "price": "800"
+            },
+            {
+                "icon": "minecraft__redstone",
+                "name": "Редстоун",
+                "price": "2.4К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__polished_andesite",
+        "level": "21",
+        "pvp": false,
+        "name": "Андезит I",
+        "blocks": [
+            {
+                "icon": "minecraft__andesite",
+                "name": "Андезит",
+                "price": "600"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__polished_andesite",
+        "level": "23",
+        "pvp": false,
+        "name": "Андезит II",
+        "blocks": [
+            {
+                "icon": "minecraft__andesite",
+                "name": "Андезит",
+                "price": "600"
+            },
+            {
+                "icon": "minecraft__polished_andesite",
+                "name": "Полированный андезит",
+                "price": "900"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__polished_andesite",
+        "level": "25",
+        "pvp": false,
+        "name": "Андезит III",
+        "blocks": [
+            {
+                "icon": "minecraft__polished_andesite",
+                "name": "Полированный андезит",
+                "price": "900"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__white_shulker_box",
+        "level": "26",
+        "pvp": false,
+        "name": "Шалкеры I",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__white_shulker_box",
+                "name": "Белый шалкеровый ящик",
+                "price": "1К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__bricks",
+        "level": "27",
+        "pvp": false,
+        "name": "Кирпичи I",
+        "blocks": [
+            {
+                "icon": "minecraft__bricks",
+                "name": "Кирпичи андезит",
+                "price": "1.3К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__bricks",
+        "level": "29",
+        "pvp": false,
+        "name": "Кирпичи II",
+        "blocks": [
+            {
+                "icon": "minecraft__bricks",
+                "name": "Кирпичи андезит",
+                "price": "1.3К"
+            },
+            {
+                "icon": "minecraft__smooth_stone",
+                "name": "Гладкий камень",
+                "price": "1.8К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__bricks",
+        "level": "31",
+        "pvp": false,
+        "name": "Кирпичи III",
+        "blocks": [
+            {
+                "icon": "minecraft__smooth_stone",
+                "name": "Гладкий камень",
+                "price": "1.8К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__redstone_ore",
+        "level": "33, 35",
+        "pvp": false,
+        "name": "Руды I, II",
+        "blocks": [
+            {
+                "icon": "minecraft__redstone",
+                "name": "Редстоун",
+                "price": "2.4К"
+            },
+            {
+                "icon": "minecraft__gold_ingot",
+                "name": "Золотой слиток",
+                "price": "3.0К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__redstone_ore",
+        "level": "37",
+        "pvp": false,
+        "name": "Руды III",
+        "blocks": [
+            {
+                "icon": "minecraft__gold_ingot",
+                "name": "Золотой слиток",
+                "price": "3.0К"
+            },
+            {
+                "icon": "minecraft__diamond",
+                "name": "Алмаз",
+                "price": "3.6К"
+            },
+            {
+                "icon": "minecraft__emerald",
+                "name": "Изумруд",
+                "price": "4.3К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__orange_shulker_box",
+        "level": "38",
+        "pvp": false,
+        "name": "Шалкеры II",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__orange_shulker_box",
+                "name": "Оранжевый шалкеровый ящик",
+                "price": "4К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__emerald_block",
+        "level": "39",
+        "pvp": true,
+        "name": "Драгоценности I",
+        "blocks": [
+            {
+                "icon": "minecraft__lapis_block",
+                "name": "Лазуритовый блок",
+                "price": "4.0К"
+            },
+            {
+                "icon": "minecraft__iron_block",
+                "name": "Железный блок",
+                "price": "4.8К"
+            },
+            {
+                "icon": "minecraft__redstone_block",
+                "name": "Редстоуновый блок",
+                "price": "5.7К"
+            },
+            {
+                "icon": "minecraft__gold_block",
+                "name": "Золотой блок",
+                "price": "6.6К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__emerald_block",
+        "level": "41",
+        "pvp": true,
+        "name": "Драгоценности II",
+        "blocks": [
+            {
+                "icon": "minecraft__iron_block",
+                "name": "Железный блок",
+                "price": "4.8К"
+            },
+            {
+                "icon": "minecraft__redstone_block",
+                "name": "Редстоуновый блок",
+                "price": "5.7К"
+            },
+            {
+                "icon": "minecraft__gold_block",
+                "name": "Золотой блок",
+                "price": "6.6К"
+            },
+            {
+                "icon": "minecraft__emerald_block",
+                "name": "Изумрудный блок",
+                "price": "7.6К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__emerald_block",
+        "level": "43",
+        "pvp": true,
+        "name": "Драгоценности III",
+        "blocks": [
+            {
+                "icon": "minecraft__redstone_block",
+                "name": "Редстоуновый блок",
+                "price": "5.7К"
+            },
+            {
+                "icon": "minecraft__gold_block",
+                "name": "Золотой блок",
+                "price": "6.6К"
+            },
+            {
+                "icon": "minecraft__emerald_block",
+                "name": "Изумрудный блок",
+                "price": "7.6К"
+            },
+            {
+                "icon": "minecraft__diamond_block",
+                "name": "Алмазный блок",
+                "price": "9.0К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__chiseled_quartz_block",
+        "level": "45",
+        "pvp": true,
+        "name": "Кварц I",
+        "blocks": [
+            {
+                "icon": "minecraft__quartz_block",
+                "name": "Кварцевый блок",
+                "price": "8.5К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__chiseled_quartz_block",
+        "level": "47",
+        "pvp": true,
+        "name": "Кварц II",
+        "blocks": [
+            {
+                "icon": "minecraft__quartz_pillar",
+                "name": "Кварцевая колонна",
+                "price": "10К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__chiseled_quartz_block",
+        "level": "49",
+        "pvp": true,
+        "name": "Кварц III",
+        "blocks": [
+            {
+                "icon": "minecraft__chiseled_quartz_block",
+                "name": "Резной кварцевый блок",
+                "price": "12К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__light_blue_shulker_box",
+        "level": "50",
+        "pvp": false,
+        "name": "Шалкеры III",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__light_blue_shulker_box",
+                "name": "Голубой шалкеровый ящик",
+                "price": "12.5К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__orange_terracotta",
+        "level": "51",
+        "pvp": true,
+        "name": "Терракота I",
+        "blocks": [
+            {
+                "icon": "minecraft__orange_terracotta",
+                "name": "Оранжевая керамика",
+                "price": "14К"
+            },
+            {
+                "icon": "minecraft__yellow_terracotta",
+                "name": "Жёлтая керамика",
+                "price": "16К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__orange_terracotta",
+        "level": "53",
+        "pvp": true,
+        "name": "Терракота II",
+        "blocks": [
+            {
+                "icon": "minecraft__orange_terracotta",
+                "name": "Оранжевая керамика",
+                "price": "14К"
+            },
+            {
+                "icon": "minecraft__yellow_terracotta",
+                "name": "Жёлтая керамика",
+                "price": "16К"
+            },
+            {
+                "icon": "minecraft__pink_terracotta",
+                "name": "Розовая керамика",
+                "price": "18К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__orange_terracotta",
+        "level": "55",
+        "pvp": true,
+        "name": "Терракота III",
+        "blocks": [
+            {
+                "icon": "minecraft__yellow_terracotta",
+                "name": "Жёлтая керамика",
+                "price": "16К"
+            },
+            {
+                "icon": "minecraft__pink_terracotta",
+                "name": "Розовая керамика",
+                "price": "18К"
+            },
+            {
+                "icon": "minecraft__red_terracotta",
+                "name": "Красная керамика",
+                "price": "21К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__black_glazed_terracotta",
+        "level": "57",
+        "pvp": true,
+        "name": "Керамика I",
+        "blocks": [
+            {
+                "icon": "minecraft__yellow_glazed_terracotta",
+                "name": "Жёлтая глазурованная керамика",
+                "price": "24К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__black_glazed_terracotta",
+        "level": "59",
+        "pvp": true,
+        "name": "Керамика II",
+        "blocks": [
+            {
+                "icon": "minecraft__blue_glazed_terracotta",
+                "name": "Синяя глазурованная керамика",
+                "price": "30К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__black_glazed_terracotta",
+        "level": "61",
+        "pvp": true,
+        "name": "Керамика III",
+        "blocks": [
+            {
+                "icon": "minecraft__black_glazed_terracotta",
+                "name": "Чёрная глазурованная керамика",
+                "price": "36К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__yellow_shulker_box",
+        "level": "62",
+        "pvp": false,
+        "name": "Шалкеры IV",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__yellow_shulker_box",
+                "name": "Жёлтый шалкеровый ящик",
+                "price": "37К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__dark_prismarine",
+        "level": "63, 65",
+        "pvp": true,
+        "name": "Призмарин I, II",
+        "blocks": [
+            {
+                "icon": "minecraft__prismarine",
+                "name": "Призмарин",
+                "price": "40К"
+            },
+            {
+                "icon": "minecraft__prismarine_bricks",
+                "name": "Призмариновые кирпичи",
+                "price": "50К"
+            },
+            {
+                "icon": "minecraft__dark_prismarine",
+                "name": "Тёмный призмарин",
+                "price": "60К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__dark_prismarine",
+        "level": "67",
+        "pvp": true,
+        "name": "Призмарин III",
+        "blocks": [
+            {
+                "icon": "minecraft__prismarine_bricks",
+                "name": "Призмариновые кирпичи",
+                "price": "50К"
+            },
+            {
+                "icon": "minecraft__dark_prismarine",
+                "name": "Тёмный призмарин",
+                "price": "60К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__obsidian",
+        "level": "69, 71",
+        "pvp": true,
+        "name": "Обсидиан I, II",
+        "blocks": [
+            {
+                "icon": "minecraft__end_stone",
+                "name": "Эндерняк",
+                "price": "105К"
+            },
+            {
+                "icon": "minecraft__obsidian",
+                "name": "Обсидиан",
+                "price": "900К"
+            }
+        ]
+    }
+]

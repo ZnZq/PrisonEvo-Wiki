@@ -30,3 +30,49 @@ body {
     height: 100%;
     width: 100%;
 }
+
+.webix_sidebar {
+    transition: width 0.2s ease-out;
+}
+
+.shaft {
+    display: grid;
+    grid-template-columns: 48px auto;
+    grid-template-rows: auto auto auto;
+    /* grid-column-gap: 8px; */
+}
+
+.shaft img.icon {
+    grid-row: 1 / 3;
+    align-self: center;
+    margin: 8px;
+}
+
+.shaft span.name {
+    font-size: 16px;
+    align-self: end;
+}
+
+.shaft span.level {
+    grid-row: 2;
+    align-self: start;
+    font-size: 14px;
+}
+
+.webix_dataview_item {
+    padding: 0;
+}
+
+.webix_dataview_inner_item {
+    padding: 2px 0px !important;
+}
+
+.blocks .block {
+    display: flex;
+    align-items: center;
+    color: #4CAF50;
+}
+
+.blocks .block img.icon {
+    margin: 4px 8px;
+}
