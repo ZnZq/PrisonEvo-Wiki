@@ -167,6 +167,11 @@
                 "icon": "minecraft__redstone",
                 "name": "Редстоун",
                 "price": "2.4К"
+            },
+            {
+                "icon": "minecraft__diamond",
+                "name": "Алмаз",
+                "price": "3.6К"
             }
         ]
     },
