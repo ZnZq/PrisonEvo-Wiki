@@ -19,6 +19,41 @@ webix.ready(function () {
             label: "PrisonEvo Wiki"
           },
           {},
+          {
+            view: "button",
+            type: "icon",
+            icon: "mdi mdi-discord",
+            width: 37,
+            align: "left",
+            css: "app_button",
+            tooltip: "DiamondWorld Discord",
+            click: function () {
+              window.open("https://discord.com/invite/HZQ5zTk","_blank");
+            }
+          }, {
+            view: "button",
+            type: "icon",
+            icon: "mdi mdi-vk",
+            width: 37,
+            align: "left",
+            css: "app_button",
+            tooltip: "DiamondWorld VK Group",
+            click: function () {
+              window.open("https://vk.com/diamondworld","_blank");
+            }
+          }, {
+            view: "button",
+            type: "icon",
+            icon: "mdi mdi-link",
+            width: 37,
+            align: "left",
+            css: "app_button",
+            tooltip: "DiamondWorld Сайт",
+            click: function () {
+              window.open("http://diamondworld.pro/","_blank");
+            }
+          },
+          {width: 4}
         ]
       },
       {
@@ -34,9 +69,16 @@ webix.ready(function () {
                 id: "collection",
                 icon: "mdi mdi-collage",
                 value: "Коллекции",
-                data: [
-                  { id: "collection-mobs", icon: "mdi mdi-sword-cross", value: "Мобы" },
-                  { id: "collection-blocks", icon: "mdi mdi-cube-outline", value: "Блоки" }
+                data: [{
+                    id: "collection-mobs",
+                    icon: "mdi mdi-sword-cross",
+                    value: "Мобы"
+                  },
+                  {
+                    id: "collection-blocks",
+                    icon: "mdi mdi-cube-outline",
+                    value: "Блоки"
+                  }
                 ]
               },
               {

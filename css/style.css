@@ -119,3 +119,8 @@ body {
     align-self: end;
     font-weight: bold;
 }
+
+.webix_icon_btn {
+    margin-right: 0;
+    font-size: 17px;
+}
