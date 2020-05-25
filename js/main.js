@@ -1,4 +1,6 @@
 webix.ready(function () {
+  let collapsed = (window.localStorage.getItem('collapsed') || 'false') == 'true';
+
   webix.ui({
     rows: [{
         view: "toolbar",
@@ -12,6 +14,7 @@ webix.ready(function () {
             css: "app_button",
             click: function () {
               $$("sidebar").toggle();
+              window.localStorage.setItem('collapsed', $$("sidebar").config.collapsed);
             }
           },
           {
@@ -60,6 +63,7 @@ webix.ready(function () {
         cols: [{
             view: "sidebar",
             id: 'sidebar',
+            collapsed: collapsed,
             data: [{
                 id: "main",
                 icon: "mdi mdi-home",
