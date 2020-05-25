@@ -26,7 +26,7 @@ webix.ajax('data/shafts.json', function (text) {
                 let block = obj.blocks[i];
                 blocks.push(`
                     <div class="block">
-                        <img class="icon" src="icon/${block.icon}.png" alt="${block.icon}" style="width: 32px;" title="${block.name}">
+                        <img class="icon" src="icon/${block.icon}.png" alt="${block.icon}" style="width:32px;height:32px;" title="${block.name}">
                         <span>${block.name} ${block.price} $</span>
                     </div>
                 `);

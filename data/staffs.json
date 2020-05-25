@@ -1,0 +1,52 @@
+[
+    {
+        "icon": "minecraft__blaze_rod",
+        "name": "Посох Молний",
+        "price": {
+            "1": "25",
+            "2": "50",
+            "3": "100"
+        },
+        "descripion": "Бьёт молнией на ПКМ, работает только на PVP",
+        "cooldown": "40с"
+    },
+    {
+        "icon": "minecraft__golden_hoe__{Damage__0}",
+        "name": "Посох Регенерации",
+        "price": {
+            "1": "40",
+            "2": "80",
+            "3": "160"
+        },
+        "descripion": "Накладывает эффект регенерации",
+        "cooldown": "60с"
+    },
+    {
+        "icon": "minecraft__wooden_hoe__{Damage__0}",
+        "name": "Посох Силы",
+        "price": {
+            "1": "80",
+            "2": "160",
+            "3": "320"
+        },
+        "descripion": "Накладывает эффект силы",
+        "cooldown": "60"
+    },
+    {
+        "icon": "minecraft__stone_hoe__{Damage__0}",
+        "name": "Посох Земли",
+        "price": {
+            "2": "140",
+            "3": "280"
+        },
+        "descripion": "Наносит урон игроку",
+        "cooldown": "90"
+    },
+    {
+        "icon": "minecraft__diamond_hoe__{Damage__0}",
+        "name": "Посох Шахтёра",
+        "price": {},
+        "descripion": "Вскапывает 1 слой шахты",
+        "cooldown": "300"
+    }
+]
