@@ -727,5 +727,18 @@
                 "price": "180К"
             }
         ]
+    },
+    {
+        "icon": "minecraft__brain_coral_block",
+        "level": "83",
+        "pvp": true,
+        "name": "Кораллы II",
+        "blocks": [
+            {
+                "icon": "minecraft__bubble_coral_block",
+                "name": "Блок пузырчатого коралла",
+                "price": "200К"
+            }
+        ]
     }
 ]
