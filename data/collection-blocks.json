@@ -77,37 +77,37 @@
     {
         "icon": "minecraft__fire_charge",
         "name": "Огненный камень",
-        "getting": "Шахта ???"
+        "getting": "Шахта Адская"
     },
     {
         "icon": "minecraft__blaze_powder",
         "name": "Адское пламя",
-        "getting": "Шахта ???"
+        "getting": "Шахта Магма"
     },
     {
         "icon": "minecraft__gunpowder",
         "name": "Бетонная пыль",
-        "getting": "Шахта ???"
+        "getting": "Шахта Бетон"
     },
     {
         "icon": "minecraft__red_mushroom",
         "name": "Мухомор",
-        "getting": "Шахта ???"
+        "getting": "Шахта Грибы"
     },
     {
         "icon": "minecraft__glistering_melon_slice",
         "name": "Сверкающий арбуз",
-        "getting": "Шахта ???"
+        "getting": "Шахта Ферма"
     },
     {
         "icon": "minecraft__magma_cream",
         "name": "Манго",
-        "getting": "Шахта ???"
+        "getting": "Шахта Тропическое дерево III"
     },
     {
         "icon": "minecraft__blue_ice",
         "name": "Синий лёд",
-        "getting": "Шахта ???"
+        "getting": "Шахта Лёд"
     },
     {
         "icon": "minecraft__sunflower",
