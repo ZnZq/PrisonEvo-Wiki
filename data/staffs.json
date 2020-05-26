@@ -44,6 +44,15 @@
         "cooldown": "90с"
     },
     {
+        "icon": "minecraft__iron_hoe__{Damage__0}",
+        "name": "Посох Ветра",
+        "price": {
+            "1": "Донат"
+        },
+        "descripion": "Прыжок вперёд",
+        "cooldown": "1с"
+    },
+    {
         "icon": "minecraft__diamond_hoe__{Damage__0}",
         "name": "Посох Шахтёра",
         "price": {
