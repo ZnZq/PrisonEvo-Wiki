@@ -872,7 +872,7 @@
     },
     {
         "icon": "minecraft__gray_shulker_box",
-        "level": "99",
+        "level": "98",
         "pvp": true,
         "name": "Шалкеры VII",
         "description": "Повышенный шанс выпадения шардов",
@@ -886,7 +886,7 @@
     },
     {
         "icon": "minecraft__purple_concrete",
-        "level": "101",
+        "level": "99",
         "pvp": true,
         "name": "Бетон I",
         "blocks": [
@@ -899,7 +899,7 @@
     },
     {
         "icon": "minecraft__purple_concrete",
-        "level": "103",
+        "level": "101",
         "pvp": true,
         "name": "Бетон II",
         "blocks": [
@@ -912,7 +912,7 @@
     },
     {
         "icon": "minecraft__purple_concrete",
-        "level": "105",
+        "level": "103",
         "pvp": true,
         "name": "Бетон III",
         "blocks": [
@@ -925,7 +925,7 @@
     },
     {
         "icon": "minecraft__brown_mushroom_block",
-        "level": "107",
+        "level": "105",
         "pvp": true,
         "name": "Грибы I",
         "blocks": [
@@ -938,7 +938,7 @@
     },
     {
         "icon": "minecraft__brown_mushroom_block",
-        "level": "109",
+        "level": "107",
         "pvp": true,
         "name": "Грибы II",
         "blocks": [
@@ -956,7 +956,7 @@
     },
     {
         "icon": "minecraft__brown_mushroom_block",
-        "level": "111",
+        "level": "109",
         "pvp": true,
         "name": "Грибы III",
         "blocks": [
@@ -969,7 +969,7 @@
     },
     {
         "icon": "minecraft__cyan_shulker_box",
-        "level": "113",
+        "level": "111",
         "pvp": true,
         "name": "Шалкеры VIII",
         "description": "Повышенный шанс выпадения шардов",
@@ -983,7 +983,7 @@
     },
     {
         "icon": "minecraft__pumpkin",
-        "level": "115",
+        "level": "113",
         "pvp": true,
         "name": "Ферма I",
         "blocks": [
@@ -996,7 +996,7 @@
     },
     {
         "icon": "minecraft__pumpkin",
-        "level": "117",
+        "level": "115",
         "pvp": true,
         "name": "Ферма II",
         "blocks": [
@@ -1014,7 +1014,7 @@
     },
     {
         "icon": "minecraft__pumpkin",
-        "level": "119",
+        "level": "117",
         "pvp": true,
         "name": "Ферма III",
         "blocks": [
@@ -1027,7 +1027,7 @@
     },
     {
         "icon": "minecraft__jungle_wood",
-        "level": "121",
+        "level": "119",
         "pvp": true,
         "name": "Тропическое дерево I",
         "blocks": [
@@ -1040,7 +1040,7 @@
     },
     {
         "icon": "minecraft__jungle_wood",
-        "level": "123",
+        "level": "121",
         "pvp": true,
         "name": "Тропическое дерево II",
         "blocks": [
