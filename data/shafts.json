@@ -1,7 +1,7 @@
 [
     {
         "icon": "minecraft__tnt",
-        "level": "Любой",
+        "level": "21",
         "pvp": false,
         "name": "Приватная шахта",
         "blocks": [
@@ -663,6 +663,7 @@
         "level": "74",
         "pvp": true,
         "name": "Шалкеры V",
+        "description": "Повышенный шанс выпадения шардов",
         "blocks": [
             {
                 "icon": "minecraft__lime_shulker_box",
@@ -738,6 +739,386 @@
                 "icon": "minecraft__bubble_coral_block",
                 "name": "Блок пузырчатого коралла",
                 "price": "200К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__brain_coral_block",
+        "level": "85",
+        "pvp": true,
+        "name": "Кораллы III",
+        "blocks": [
+            {
+                "icon": "minecraft__fire_coral_block",
+                "name": "Блок огненного коралла",
+                "price": "230К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__brain_coral_block",
+        "level": "85",
+        "pvp": true,
+        "name": "Кораллы III",
+        "blocks": [
+            {
+                "icon": "minecraft__fire_coral_block",
+                "name": "Блок огненного коралла",
+                "price": "230К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__pink_shulker_box",
+        "level": "86",
+        "pvp": true,
+        "name": "Шалкеры VI",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__pink_shulker_box",
+                "name": "Розовый шалкеровый ящик",
+                "price": "240К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__nether_bricks",
+        "level": "87",
+        "pvp": true,
+        "name": "Адская I",
+        "blocks": [
+            {
+                "icon": "minecraft__netherrack",
+                "name": "Незерит",
+                "price": "260К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__nether_bricks",
+        "level": "89",
+        "pvp": true,
+        "name": "Адская II",
+        "blocks": [
+            {
+                "icon": "minecraft__netherrack",
+                "name": "Незерит",
+                "price": "260К"
+            },
+            {
+                "icon": "minecraft__nether_bricks",
+                "name": "Незеритовый кирпич",
+                "price": "330К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__nether_bricks",
+        "level": "91",
+        "pvp": true,
+        "name": "Адская III",
+        "blocks": [
+            {
+                "icon": "minecraft__nether_bricks",
+                "name": "Незеритовый кирпич",
+                "price": "330К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__magma_block",
+        "level": "93",
+        "pvp": true,
+        "name": "Магма I",
+        "blocks": [
+            {
+                "icon": "minecraft__red_nether_bricks",
+                "name": "Красный незеритовые кирпич",
+                "price": "370К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__magma_block",
+        "level": "95",
+        "pvp": true,
+        "name": "Магма II",
+        "blocks": [
+            {
+                "icon": "minecraft__red_nether_bricks",
+                "name": "Красный незеритовые кирпич",
+                "price": "370К"
+            },
+            {
+                "icon": "minecraft__magma_block",
+                "name": "Магма",
+                "price": "460К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__magma_block",
+        "level": "97",
+        "pvp": true,
+        "name": "Магма III",
+        "blocks": [
+            {
+                "icon": "minecraft__magma_block",
+                "name": "Магма",
+                "price": "460К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__gray_shulker_box",
+        "level": "99",
+        "pvp": true,
+        "name": "Шалкеры VII",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__gray_shulker_box",
+                "name": "Серый шалкеровый ящик",
+                "price": "470К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purple_concrete",
+        "level": "101",
+        "pvp": true,
+        "name": "Бетон I",
+        "blocks": [
+            {
+                "icon": "minecraft__green_concrete",
+                "name": "Зелёный бетон",
+                "price": "510К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purple_concrete",
+        "level": "103",
+        "pvp": true,
+        "name": "Бетон II",
+        "blocks": [
+            {
+                "icon": "minecraft__yellow_concrete",
+                "name": "Жёлтый бетон",
+                "price": "560К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purple_concrete",
+        "level": "105",
+        "pvp": true,
+        "name": "Бетон III",
+        "blocks": [
+            {
+                "icon": "minecraft__purple_concrete",
+                "name": "Фиолетовый бетон",
+                "price": "610К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__brown_mushroom_block",
+        "level": "107",
+        "pvp": true,
+        "name": "Грибы I",
+        "blocks": [
+            {
+                "icon": "minecraft__brown_mushroom_block",
+                "name": "Коричневый гриб",
+                "price": "660К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__brown_mushroom_block",
+        "level": "109",
+        "pvp": true,
+        "name": "Грибы II",
+        "blocks": [
+            {
+                "icon": "minecraft__brown_mushroom_block",
+                "name": "Коричневый гриб",
+                "price": "660К"
+            },
+            {
+                "icon": "minecraft__red_mushroom_block",
+                "name": "Мухомор",
+                "price": "760К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__brown_mushroom_block",
+        "level": "111",
+        "pvp": true,
+        "name": "Грибы III",
+        "blocks": [
+            {
+                "icon": "minecraft__red_mushroom_block",
+                "name": "Мухомор",
+                "price": "760К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__cyan_shulker_box",
+        "level": "113",
+        "pvp": true,
+        "name": "Шалкеры VIII",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__cyan_shulker_box",
+                "name": "Берюзовый шалкеровый ящик",
+                "price": "775K"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__pumpkin",
+        "level": "115",
+        "pvp": true,
+        "name": "Ферма I",
+        "blocks": [
+            {
+                "icon": "minecraft__melon",
+                "name": "Арбуз",
+                "price": "810К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__pumpkin",
+        "level": "117",
+        "pvp": true,
+        "name": "Ферма II",
+        "blocks": [
+            {
+                "icon": "minecraft__melon",
+                "name": "Арбуз",
+                "price": "810К"
+            },
+            {
+                "icon": "minecraft__pumpkin",
+                "name": "Тыква",
+                "price": "900К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__pumpkin",
+        "level": "119",
+        "pvp": true,
+        "name": "Ферма III",
+        "blocks": [
+            {
+                "icon": "minecraft__pumpkin",
+                "name": "Тыква",
+                "price": "900К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__jungle_wood",
+        "level": "121",
+        "pvp": true,
+        "name": "Тропическое дерево I",
+        "blocks": [
+            {
+                "icon": "minecraft__jungle_planks",
+                "name": "Доски тропического дерева",
+                "price": "950К"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__jungle_wood",
+        "level": "123",
+        "pvp": true,
+        "name": "Тропическое дерево II",
+        "blocks": [
+            {
+                "icon": "minecraft__jungle_wood",
+                "name": "Тропическое дерево",
+                "price": "1М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__jungle_wood",
+        "level": "123",
+        "pvp": true,
+        "name": "Тропическое дерево III",
+        "blocks": [
+            {
+                "icon": "minecraft__jungle_leaves",
+                "name": "Листья тропического дерева",
+                "price": "1.05М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__purple_shulker_box",
+        "level": "124",
+        "pvp": true,
+        "name": "Шалкеры IX",
+        "description": "Повышенный шанс выпадения шардов",
+        "blocks": [
+            {
+                "icon": "minecraft__purple_shulker_box",
+                "name": "ФИолетовый шалкеровый ящик",
+                "price": "1.07М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__packed_ice",
+        "level": "125",
+        "pvp": true,
+        "name": "Лёд I",
+        "blocks": [
+            {
+                "icon": "minecraft__ice",
+                "name": "Лёд",
+                "price": "1.1М"
+            },
+            {
+                "icon": "minecraft__packed_ice",
+                "name": "Плотный лёд",
+                "price": "1.2М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__packed_ice",
+        "level": "127",
+        "pvp": true,
+        "name": "Лёд II",
+        "blocks": [
+            {
+                "icon": "minecraft__packed_ice",
+                "name": "Плотный лёд",
+                "price": "1.2М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__packed_ice",
+        "level": "129",
+        "pvp": true,
+        "name": "Лёд III",
+        "blocks": [
+            {
+                "icon": "minecraft__snowball",
+                "name": "Снежок",
+                "price": "1.3М"
             }
         ]
     }
