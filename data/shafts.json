@@ -756,19 +756,6 @@
         ]
     },
     {
-        "icon": "minecraft__brain_coral_block",
-        "level": "85",
-        "pvp": true,
-        "name": "Кораллы III",
-        "blocks": [
-            {
-                "icon": "minecraft__fire_coral_block",
-                "name": "Блок огненного коралла",
-                "price": "230К"
-            }
-        ]
-    },
-    {
         "icon": "minecraft__pink_shulker_box",
         "level": "86",
         "pvp": true,

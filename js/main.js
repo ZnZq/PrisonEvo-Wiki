@@ -67,7 +67,7 @@ webix.ready(function () {
             data: [{
                 id: "main",
                 icon: "mdi mdi-home",
-                value: "Гравная"
+                value: "Главная"
               },
               {
                 id: "collection",
