@@ -68,6 +68,10 @@ webix.ready(function () {
                 id: "main",
                 icon: "mdi mdi-home",
                 value: "Главная"
+              },{
+                id: "general",
+                icon: "mdi mdi-airballoon",
+                value: "Общее"
               },
               {
                 id: "collection",

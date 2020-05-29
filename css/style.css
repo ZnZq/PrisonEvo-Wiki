@@ -134,3 +134,16 @@ body {
 .webix_dataview > .webix_scroll_cont > div .tiles {
     flex: 1;
 }
+
+.luck-block {
+    display: grid;
+    grid-template-rows: auto auto;
+    justify-content: start;
+    align-items: center;
+    grid-gap: 8px;
+}
+
+.luck-block .name, .luck-block .icon {
+    grid-row: 1 / 2;
+    margin: 0;
+}
