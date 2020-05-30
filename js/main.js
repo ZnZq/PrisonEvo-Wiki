@@ -74,7 +74,18 @@ webix.ready(function () {
               {
                 id: "general",
                 icon: "mdi mdi-airballoon",
-                value: "Общее"
+                value: "Общее",
+                data: [{
+                    id: "general-booster",
+                    icon: "mdi mdi-sword-cross",
+                    value: "Бустер копания"
+                  },
+                  {
+                    id: "general-luck-block",
+                    icon: "mdi mdi-cube-outline",
+                    value: "Лаки блок"
+                  }
+                ]
               }, {
                 id: "level",
                 icon: "mdi mdi-arrow-up-bold",
