@@ -29,6 +29,12 @@ webix.ajax('data/runes.json', function (text) {
     });
 
     webix.ui([{
+        type: "header",
+        template: 'Руны',
+    }, {
+        template: "<span style='color: #F44336'>Руны нельзя передавать другим игрокам! Можно только кейсы!</span>",
+        autoheight: true,
+    }, {
         view: 'datatable',
         id: 'datatable',
         columns: [{

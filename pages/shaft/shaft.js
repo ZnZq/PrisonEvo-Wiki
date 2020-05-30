@@ -1,9 +1,10 @@
 webix.ajax('data/shafts.json', function (text) {
     let json = JSON.parse(text);
 
-    // let data = [];
-
     webix.ui([{
+        type: "header",
+        template: 'Шахты',
+    }, {
         view: 'dataview',
         select: true,
         type: {

@@ -2,6 +2,12 @@ webix.ajax('data/collection-mobs.json', function (text) {
     let json = JSON.parse(text);
 
     webix.ui([{
+        type: "header",
+        template: 'Коллекция - Мобы',
+    }, {
+        template: "<span style='color: #F44336'>Коллекционные предметы нельзя передавать другим игрокам!</span>",
+        autoheight: true,
+    }, {
         view: 'dataview',
         select: true,
         type: {

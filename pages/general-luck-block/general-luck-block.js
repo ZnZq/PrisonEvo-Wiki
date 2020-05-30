@@ -1,4 +1,7 @@
 webix.ui([{
+    type: "header",
+    template: 'Общее - Лаки блок',
+}, {
     autoheight: true,
     template: `
         <div class="luck-block">

@@ -1,6 +1,6 @@
 webix.ui([{
         type: "header",
-        template: 'Бустер за копание',
+        template: 'Общее - Бустер за копание',
     },
     {
         autoheight: true,

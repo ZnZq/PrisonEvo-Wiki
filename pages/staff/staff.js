@@ -2,6 +2,9 @@ webix.ajax('data/staffs.json', function (text) {
     let json = JSON.parse(text);
 
     webix.ui([{
+        type: "header",
+        template: 'Посохи',
+    }, {
         view: 'list',
         template: function (obj) {
             let prices = [];

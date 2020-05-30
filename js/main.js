@@ -70,6 +70,10 @@ webix.ready(function () {
                 id: "main",
                 icon: "mdi mdi-home",
                 value: "Главная"
+              },{
+                id: "slang",
+                icon: "mdi mdi-file-word-box",
+                value: "Сленг"
               },
               {
                 id: "general",

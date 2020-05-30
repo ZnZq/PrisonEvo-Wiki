@@ -1,4 +1,7 @@
 webix.ui([{
+    type: "header",
+    template: 'Прокачка - Броня',
+}, {
     view: 'dataview',
     select: true,
     datatype: "json",
