@@ -25,6 +25,7 @@ webix.ajax('data/slang.json', function (text) {
         on: {
             "onresize": webix.once(function () {
                 this.adjustRowHeight("desc", true);
+                this.adjustRowHeight("slang", true);
             })
         },
         select: "row",
