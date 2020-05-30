@@ -92,12 +92,12 @@ webix.ready(function () {
                   {
                     id: "general-trident",
                     icon: "mdi mdi-silverware-fork",
-                    value: "Тризубец"
+                    value: "Трезубец"
                   }
                 ]
               }, {
                 id: "level",
-                icon: "mdi mdi-arrow-up-bold",
+                icon: "mdi mdi-trending-up",
                 value: "Прокачка",
                 data: [{
                     id: "player_level",
@@ -111,7 +111,7 @@ webix.ready(function () {
                   },
                   {
                     id: "axe_level",
-                    icon: "mdi mdi-call-made",
+                    icon: "mdi mdi-tree",
                     value: "Топор"
                   },
                   {
@@ -144,7 +144,7 @@ webix.ready(function () {
               },
               {
                 id: "staff",
-                icon: "mdi mdi-sword",
+                icon: "mdi mdi-silverware-spoon",
                 value: "Посохи"
               },
               {
