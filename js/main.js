@@ -65,6 +65,7 @@ webix.ready(function () {
         cols: [{
             view: "sidebar",
             id: 'sidebar',
+            scroll: "auto",
             collapsed: collapsed,
             data: [{
                 id: "main",
@@ -155,7 +156,18 @@ webix.ready(function () {
               {
                 id: "rune",
                 icon: "mdi mdi-ring",
-                value: "Руны"
+                value: "Руны",
+                data: [{
+                    id: "rune-list",
+                    icon: "mdi mdi-wunderlist",
+                    value: "Список рун"
+                  },
+                  {
+                    id: "rune-library",
+                    icon: "mdi mdi-book",
+                    value: "Библиотека"
+                  }
+                ]
               }, {
                 id: "boss",
                 icon: "mdi mdi-fire red",

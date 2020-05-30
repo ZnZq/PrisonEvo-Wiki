@@ -30,7 +30,7 @@ webix.ajax('data/runes.json', function (text) {
 
     webix.ui([{
         type: "header",
-        template: 'Руны',
+        template: 'Руны - Список рун',
     }, {
         template: "<span style='color: #F44336'>Руны нельзя передавать другим игрокам! Можно только кейсы!</span>",
         autoheight: true,
