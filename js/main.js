@@ -70,15 +70,36 @@ webix.ready(function () {
                 id: "main",
                 icon: "mdi mdi-home",
                 value: "Главная"
-              }, 
+              },
               {
                 id: "general",
                 icon: "mdi mdi-airballoon",
                 value: "Общее"
-              },{
+              }, {
                 id: "level",
                 icon: "mdi mdi-arrow-up-bold",
-                value: "Прокачка"
+                value: "Прокачка",
+                data: [{
+                    id: "player_level",
+                    icon: "mdi mdi-arrow-up-bold-hexagon-outline",
+                    value: "Уровень"
+                  },
+                  {
+                    id: "pickaxe_level",
+                    icon: "mdi mdi-call-made",
+                    value: "Кирка"
+                  },
+                  {
+                    id: "sword_level",
+                    icon: "mdi mdi-sword",
+                    value: "Меч"
+                  },
+                  {
+                    id: "armor_level",
+                    icon: "mdi mdi-shield-half-full",
+                    value: "Броня"
+                  }
+                ]
               },
               {
                 id: "collection",

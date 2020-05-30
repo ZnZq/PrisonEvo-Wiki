@@ -1,5 +1,4 @@
-[
-    {
+[{
         "level": "2",
         "blocks": "100",
         "money": "200"
@@ -127,8 +126,7 @@
     {
         "level": "27",
         "blocks": "7760",
-        "money": "12M",
-        "bronze": "15 Бронза I"
+        "money": "12M"
     },
     {
         "level": "28",
@@ -184,5 +182,660 @@
         "level": "38",
         "blocks": "16100",
         "money": "57M"
+    },
+    {
+        "level": "39",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "40",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "41",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "42",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "43",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "44",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "45",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "46",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "47",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "48",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "49",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "50",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "51",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "52",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "53",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "54",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "55",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "56",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "57",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "58",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "59",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "60",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "61",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "62",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "63",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "64",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "65",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "66",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "67",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "68",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "69",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "70",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "71",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "72",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "73",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "74",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "75",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "76",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "77",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "78",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "79",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "80",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "81",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "82",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "83",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "84",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "85",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "86",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "87",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "88",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "89",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "90",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "91",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "92",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "93",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "94",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "95",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "96",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "97",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "98",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "99",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "100",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "101",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "102",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "103",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "104",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "105",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "106",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "107",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "108",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "109",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "110",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "111",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "112",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "113",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "114",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "115",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "116",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "117",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "118",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "119",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "120",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "121",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "122",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "123",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "124",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "125",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "126",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "127",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "128",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "129",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "130",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "131",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "132",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "133",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "134",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "135",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "136",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "137",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "138",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "139",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "140",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "141",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "142",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "143",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "144",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "145",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "146",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "147",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "148",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "149",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "150",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "151",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "152",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "153",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "154",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "155",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "156",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "157",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "158",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "159",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "160",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "161",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "162",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "163",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "164",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "165",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "166",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "167",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "168",
+        "blocks": "???",
+        "money": "???"
+    },
+    {
+        "level": "169",
+        "blocks": "???",
+        "money": "???"
     }
 ]
