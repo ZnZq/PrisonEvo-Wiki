@@ -1,0 +1,112 @@
+[
+    {
+        "icon": "minecraft__wooden_pickaxe__{Damage__0}",
+        "name": "Деревянная кирка",
+        "price": "800"
+    },
+    {
+        "icon": "minecraft__wooden_pickaxe__{Damage__0}",
+        "name": "Деревянная кирка. Эфф 1",
+        "price": "2.4K"
+    },
+    {
+        "icon": "minecraft__stone_pickaxe__{Damage__0}",
+        "name": "Каменная кирка",
+        "price": "7.2K"
+    },
+    {
+        "icon": "minecraft__stone_pickaxe__{Damage__0}",
+        "name": "Каменная кирка. Эфф 1",
+        "price": "21.6K"
+    },
+    {
+        "icon": "minecraft__iron_pickaxe__{Damage__0}",
+        "name": "Железная кирка",
+        "price": "64.8K"
+    },
+    {
+        "icon": "minecraft__iron_pickaxe__{Damage__0}",
+        "name": "Железная кирка. Эфф 1",
+        "price": "194.4K"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка",
+        "price": "350K"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 1",
+        "price": "600K"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 2",
+        "price": "800K"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 3",
+        "price": "1M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 4",
+        "price": "2M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 5",
+        "price": "3M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 6",
+        "price": "5M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 7",
+        "price": "10M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 8",
+        "price": "20M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 9",
+        "price": "30M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 10",
+        "price": "10M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 11",
+        "price": "20M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 12",
+        "price": "40M"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 13",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 14",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_pickaxe__{Damage__0}",
+        "name": "Алмазная кирка. Эфф 15",
+        "price": "???"
+    }
+]

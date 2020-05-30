@@ -1,0 +1,72 @@
+[
+    {
+        "icon": "minecraft__leather_chestplate__{Damage__0}",
+        "name": "Кожанная броня",
+        "price": "500"
+    },
+    {
+        "icon": "minecraft__leather_chestplate__{Damage__0}",
+        "name": "Кожанная броня. Защ 1",
+        "price": "1.5K"
+    },
+    {
+        "icon": "minecraft__golden_chestplate__{Damage__0}",
+        "name": "Золотая броня",
+        "price": "4K"
+    },
+    {
+        "icon": "minecraft__golden_chestplate__{Damage__0}",
+        "name": "Золотая броня. Защ 1",
+        "price": "8K"
+    },
+    {
+        "icon": "minecraft__iron_chestplate__{Damage__0}",
+        "name": "Железная броня",
+        "price": "32K"
+    },
+    {
+        "icon": "minecraft__iron_chestplate__{Damage__0}",
+        "name": "Железная броня. Защ 1",
+        "price": "128K"
+    },
+    {
+        "icon": "minecraft__iron_chestplate__{Damage__0}",
+        "name": "Железная броня. Защ 2",
+        "price": "512K"
+    },
+    {
+        "icon": "minecraft__iron_chestplate__{Damage__0}",
+        "name": "Железная броня. Защ 3",
+        "price": "2M"
+    },
+    {
+        "icon": "minecraft__diamond_chestplate__{Damage__0}",
+        "name": "Алмазная броня",
+        "price": "8M"
+    },
+    {
+        "icon": "minecraft__diamond_chestplate__{Damage__0}",
+        "name": "Алмазная броня. Защ 1",
+        "price": "32M"
+    },
+    {
+        "icon": "minecraft__diamond_chestplate__{Damage__0}",
+        "name": "Алмазная броня. Защ 2",
+        "price": "128M"
+    },
+    {
+        "icon": "minecraft__diamond_chestplate__{Damage__0}",
+        "name": "Алмазная броня. Защ 3",
+        "price": "512M"
+    },
+    {
+        "icon": "minecraft__diamond_chestplate__{Damage__0}",
+        "name": "Алмазная броня. Защ 4",
+        "price": "2B"
+    },
+    {
+        "icon": "minecraft__diamond_chestplate__{Damage__0}",
+        "name": "Алмазная броня. Защ 5",
+        "price": "8B"
+    }
+]

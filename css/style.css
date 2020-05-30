@@ -147,3 +147,37 @@ body {
     grid-row: 1 / 2;
     margin: 0;
 }
+
+.player-level h3 {
+    margin: 0;
+    text-align: center;
+}
+
+.player-level .info {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-around;
+}
+
+.tool-level {
+    display: grid;
+    grid-template-columns: 48px auto;
+    grid-template-rows: auto auto;
+    align-items: center;
+}
+
+.tool-level .icon {
+    width: 32px;
+    height: 32px;
+    margin: 8px;
+    grid-row: 1 / 3;
+}
+
+.tool-level .name {
+    margin: 0;
+    align-self: flex-end;
+}
+
+.tool-level .price {
+    align-self: flex-start;
+}

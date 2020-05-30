@@ -1,0 +1,188 @@
+[
+    {
+        "level": "2",
+        "blocks": "100",
+        "money": "200"
+    },
+    {
+        "level": "3",
+        "blocks": "250",
+        "money": "400"
+    },
+    {
+        "level": "4",
+        "blocks": "409",
+        "money": "700"
+    },
+    {
+        "level": "5",
+        "blocks": "577",
+        "money": "1K"
+    },
+    {
+        "level": "6",
+        "blocks": "755",
+        "money": "2K"
+    },
+    {
+        "level": "7",
+        "blocks": "944",
+        "money": "4.5K"
+    },
+    {
+        "level": "8",
+        "blocks": "1140",
+        "money": "8K"
+    },
+    {
+        "level": "9",
+        "blocks": "1360",
+        "money": "14K"
+    },
+    {
+        "level": "10",
+        "blocks": "1580",
+        "money": "25K"
+    },
+    {
+        "level": "11",
+        "blocks": "1820",
+        "money": "40K"
+    },
+    {
+        "level": "12",
+        "blocks": "2070",
+        "money": "70K"
+    },
+    {
+        "level": "13",
+        "blocks": "2340",
+        "money": "110K"
+    },
+    {
+        "level": "14",
+        "blocks": "2630",
+        "money": "180K"
+    },
+    {
+        "level": "15",
+        "blocks": "3930",
+        "money": "280K"
+    },
+    {
+        "level": "16",
+        "blocks": "3250",
+        "money": "450K"
+    },
+    {
+        "level": "17",
+        "blocks": "3580",
+        "money": "700K"
+    },
+    {
+        "level": "18",
+        "blocks": "3940",
+        "money": "1M"
+    },
+    {
+        "level": "19",
+        "blocks": "4320",
+        "money": "1.5M"
+    },
+    {
+        "level": "20",
+        "blocks": "4510",
+        "money": "2.2M"
+    },
+    {
+        "level": "21",
+        "blocks": "4910",
+        "money": "3M"
+    },
+    {
+        "level": "22",
+        "blocks": "5330",
+        "money": "3.8M"
+    },
+    {
+        "level": "23",
+        "blocks": "5760",
+        "money": "5M"
+    },
+    {
+        "level": "24",
+        "blocks": "6220",
+        "money": "6.5M"
+    },
+    {
+        "level": "25",
+        "blocks": "6710",
+        "money": "7.5M"
+    },
+    {
+        "level": "26",
+        "blocks": "7220",
+        "money": "9.5M"
+    },
+    {
+        "level": "27",
+        "blocks": "7760",
+        "money": "12M",
+        "bronze": "15 Бронза I"
+    },
+    {
+        "level": "28",
+        "blocks": "8330",
+        "money": "14M"
+    },
+    {
+        "level": "29",
+        "blocks": "8940",
+        "money": "16M"
+    },
+    {
+        "level": "30",
+        "blocks": "9570",
+        "money": "18M"
+    },
+    {
+        "level": "31",
+        "blocks": "10200",
+        "money": "20.5M"
+    },
+    {
+        "level": "32",
+        "blocks": "11K",
+        "money": "23M"
+    },
+    {
+        "level": "33",
+        "blocks": "11700",
+        "money": "25.5M"
+    },
+    {
+        "level": "34",
+        "blocks": "12500",
+        "money": "28.5M"
+    },
+    {
+        "level": "35",
+        "blocks": "13300",
+        "money": "33M"
+    },
+    {
+        "level": "36",
+        "blocks": "14200",
+        "money": "39M"
+    },
+    {
+        "level": "37",
+        "blocks": "15100",
+        "money": "47M"
+    },
+    {
+        "level": "38",
+        "blocks": "16100",
+        "money": "57M"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "icon": "minecraft__wooden_sword__{Damage__0}",
+        "name": "Деревянный меч",
+        "price": "2K"
+    },
+    {
+        "icon": "minecraft__wooden_sword__{Damage__0}",
+        "name": "Деревянный меч. Ост 1",
+        "price": "5K"
+    },
+    {
+        "icon": "minecraft__stone_sword__{Damage__0}",
+        "name": "Каменный меч",
+        "price": "12.5K"
+    },
+    {
+        "icon": "minecraft__stone_sword__{Damage__0}",
+        "name": "Каменный меч. Ост 1",
+        "price": "31250"
+    },
+    {
+        "icon": "minecraft__iron_sword__{Damage__0}",
+        "name": "Железный меч",
+        "price": "78.1K"
+    },
+    {
+        "icon": "minecraft__iron_sword__{Damage__0}",
+        "name": "Железный меч. Ост 1",
+        "price": "195.3K"
+    },
+    {
+        "icon": "minecraft__iron_sword__{Damage__0}",
+        "name": "Железный меч. Ост 2",
+        "price": "488K"
+    },
+    {
+        "icon": "minecraft__iron_sword__{Damage__0}",
+        "name": "Железный меч. Ост 3",
+        "price": "1.22M"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч",
+        "price": "3.05M"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 1",
+        "price": "7.5M"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 2",
+        "price": "19M"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 3",
+        "price": "45M"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 4",
+        "price": "120M"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 5",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 6",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 7",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 8",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 9",
+        "price": "???"
+    },
+    {
+        "icon": "minecraft__diamond_sword__{Damage__0}",
+        "name": "Алмазный меч. Ост 10",
+        "price": "???"
+    }
+]

@@ -31,7 +31,7 @@ webix.ready(function () {
             css: "app_button",
             tooltip: "DiamondWorld Discord",
             click: function () {
-              window.open("https://discord.com/invite/HZQ5zTk","_blank");
+              window.open("https://discord.com/invite/HZQ5zTk", "_blank");
             }
           }, {
             view: "button",
@@ -42,7 +42,7 @@ webix.ready(function () {
             css: "app_button",
             tooltip: "DiamondWorld VK Group",
             click: function () {
-              window.open("https://vk.com/diamondworld","_blank");
+              window.open("https://vk.com/diamondworld", "_blank");
             }
           }, {
             view: "button",
@@ -53,10 +53,12 @@ webix.ready(function () {
             css: "app_button",
             tooltip: "DiamondWorld Сайт",
             click: function () {
-              window.open("http://diamondworld.pro/","_blank");
+              window.open("http://diamondworld.pro/", "_blank");
             }
           },
-          {width: 4}
+          {
+            width: 4
+          }
         ]
       },
       {
@@ -68,10 +70,15 @@ webix.ready(function () {
                 id: "main",
                 icon: "mdi mdi-home",
                 value: "Главная"
-              },{
+              }, 
+              {
                 id: "general",
                 icon: "mdi mdi-airballoon",
                 value: "Общее"
+              },{
+                id: "level",
+                icon: "mdi mdi-arrow-up-bold",
+                value: "Прокачка"
               },
               {
                 id: "collection",
