@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "minecraft__wooden_axe__{Damage__0}",
+        "name": "Деревянный топор",
+        "price": "7.8M"
+    },
+    {
+        "icon": "minecraft__wooden_axe__{Damage__0}",
+        "name": "Деревянный топор. Эфф 1",
+        "price": "15M"
+    },
+    {
+        "icon": "minecraft__iron_axe__{Damage__0}",
+        "name": "Железный топор",
+        "price": "31M"
+    },
+    {
+        "icon": "minecraft__iron_axe__{Damage__0}",
+        "name": "Железный топор. Эфф 1",
+        "price": "62M"
+    },
+    {
+        "icon": "minecraft__diamond_axe__{Damage__0}",
+        "name": "Алмазный топор",
+        "price": "125M"
+    },
+    {
+        "icon": "minecraft__diamond_axe__{Damage__0}",
+        "name": "Алмазный топор. Эфф 1",
+        "price": "250M"
+    }
+]

@@ -97,16 +97,16 @@
     {
         "icon": "minecraft__diamond_pickaxe__{Damage__0}",
         "name": "Алмазная кирка. Эфф 13",
-        "price": "???"
+        "price": "100M"
     },
     {
         "icon": "minecraft__diamond_pickaxe__{Damage__0}",
         "name": "Алмазная кирка. Эфф 14",
-        "price": "???"
+        "price": "200M"
     },
     {
         "icon": "minecraft__diamond_pickaxe__{Damage__0}",
         "name": "Алмазная кирка. Эфф 15",
-        "price": "???"
+        "price": "500M"
     }
 ]

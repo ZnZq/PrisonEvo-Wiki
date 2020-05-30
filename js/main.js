@@ -110,6 +110,11 @@ webix.ready(function () {
                     value: "Кирка"
                   },
                   {
+                    id: "axe_level",
+                    icon: "mdi mdi-call-made",
+                    value: "Топор"
+                  },
+                  {
                     id: "sword_level",
                     icon: "mdi mdi-sword",
                     value: "Меч"
