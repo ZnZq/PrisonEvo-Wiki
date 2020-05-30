@@ -70,7 +70,7 @@ webix.ready(function () {
                 id: "main",
                 icon: "mdi mdi-home",
                 value: "Главная"
-              },{
+              }, {
                 id: "slang",
                 icon: "mdi mdi-file-word-box",
                 value: "Сленг"
@@ -88,6 +88,11 @@ webix.ready(function () {
                     id: "general-luck-block",
                     icon: "mdi mdi-cube-outline",
                     value: "Лаки блок"
+                  },
+                  {
+                    id: "general-trident",
+                    icon: "mdi mdi-silverware-fork",
+                    value: "Тризубец"
                   }
                 ]
               }, {
@@ -146,12 +151,11 @@ webix.ready(function () {
                 id: "rune",
                 icon: "mdi mdi-ring",
                 value: "Руны"
-              },
-              {
+              }, {
                 id: "boss",
                 icon: "mdi mdi-fire red",
                 value: "Боссы"
-              },
+              }
             ],
             on: {
               onAfterSelect: function (id) {

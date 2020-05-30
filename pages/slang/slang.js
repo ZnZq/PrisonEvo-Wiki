@@ -6,10 +6,14 @@ webix.ajax('data/slang.json', function (text) {
         template: 'Сленг',
     }, {
         view: 'datatable',
+        fixedRowHeight: false,
+        rowLineHeight: 30,
+        rowHeight: 30,
         columns: [{
                 id: 'slang',
                 header: 'Слово',
                 sort: "string",
+                width: 175,
             },
             {
                 id: 'desc',
@@ -18,6 +22,11 @@ webix.ajax('data/slang.json', function (text) {
                 fillspace: true
             }
         ],
+        on: {
+            "onresize": webix.once(function () {
+                this.adjustRowHeight("desc", true);
+            })
+        },
         select: "row",
         data: json
     }], $$('body'));
