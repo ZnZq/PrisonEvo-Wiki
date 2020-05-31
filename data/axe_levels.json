@@ -47,6 +47,11 @@
     {
         "icon": "minecraft__diamond_axe__{Damage__0}",
         "name": "Алмазный топор. Эфф 5",
-        "price": "???"
+        "price": "4B"
+    },
+    {
+        "icon": "minecraft__diamond_axe__{Damage__0}",
+        "name": "Алмазный топор. Эфф 6",
+        "price": "8B"
     }
 ]
