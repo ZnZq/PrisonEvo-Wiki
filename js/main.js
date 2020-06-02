@@ -170,7 +170,7 @@ webix.ready(function () {
                 ]
               }, {
                 id: "boss",
-                icon: "mdi mdi-fire red",
+                icon: "mdi mdi-fire",
                 value: "Боссы"
               }
             ],

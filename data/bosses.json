@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Древний лучник",
+        "hp": "800",
+        "raid": false,
+        "timeout": "20 минут",
+        "level": "15",
+        "pvp": false
+    },
+    {
+        "name": "Слизень",
+        "hp": "1400",
+        "raid": false,
+        "timeout": "30 Минут",
+        "level": "20",
+        "pvp": false
+    },
+    {
+        "name": "Стальной страж",
+        "hp": "1600",
+        "raid": false,
+        "timeout": "???",
+        "level": "25",
+        "pvp": false
+    },
+    {
+        "name": "Кошмар",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "30",
+        "pvp": false,
+        "description": "Нужна привелегия BigBoss"
+    },
+    {
+        "name": "Близнецы. Зомби - Воин / Зомби - Колдун",
+        "hp": "1000 / 5000",
+        "raid": true,
+        "timeout": "???",
+        "level": "35",
+        "pvp": false,
+        "description": "Пока Зомби - Воин жив, Зомби - Колдун не получает урона"
+    },
+    {
+        "name": "Повелитель огня",
+        "hp": "2000",
+        "raid": false,
+        "timeout": "???",
+        "level": "40",
+        "pvp": true
+    },
+    {
+        "name": "Паучиха",
+        "hp": "10000",
+        "raid": true,
+        "timeout": "???",
+        "level": "45",
+        "pvp": false
+    },
+    {
+        "name": "Утопленник",
+        "hp": "2000",
+        "raid": false,
+        "timeout": "???",
+        "level": "50",
+        "pvp": true
+    },
+    {
+        "name": "Колдун",
+        "hp": "10000",
+        "raid": true,
+        "timeout": "???",
+        "level": "55",
+        "pvp": false
+    },
+    {
+        "name": "Наездник. Паук / Скелет",
+        "hp": "10000 / 10000",
+        "raid": true,
+        "timeout": "???",
+        "level": "65",
+        "pvp": false
+    },
+    {
+        "name": "Разбойник",
+        "hp": "2600",
+        "raid": false,
+        "timeout": "???",
+        "level": "70",
+        "pvp": true
+    },
+    {
+        "name": "Лавовый куб",
+        "hp": "???",
+        "raid": true,
+        "timeout": "???",
+        "level": "75",
+        "pvp": false
+    },
+    {
+        "name": "Призрачный охотник",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "80",
+        "pvp": true
+    },
+    {
+        "name": "Черный дракон",
+        "hp": "15000",
+        "raid": true,
+        "timeout": "7 Часов",
+        "level": "85",
+        "pvp": false
+    },
+    {
+        "name": "Гигант",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "90",
+        "pvp": true
+    },
+    {
+        "name": "Проклятый легион",
+        "hp": "???",
+        "raid": true,
+        "timeout": "???",
+        "level": "95",
+        "pvp": false
+    },
+    {
+        "name": "Монстр",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "100",
+        "pvp": true
+    },
+    {
+        "name": "Пожиратель тьмы",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "110",
+        "pvp": false
+    },
+    {
+        "name": "Кузнец",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "120",
+        "pvp": true
+    },
+    {
+        "name": "Заклинатель",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "130",
+        "pvp": true
+    },
+    {
+        "name": "Мёртвый всадник",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "140",
+        "pvp": true
+    },
+    {
+        "name": "Самурай",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "150",
+        "pvp": true
+    },
+    {
+        "name": "Снежный монстр",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "40",
+        "pvp": true,
+        "description": "Необходима книга доступа"
+    },
+    {
+        "name": "Данж: пирамида",
+        "hp": "???",
+        "raid": false,
+        "timeout": "???",
+        "level": "80",
+        "pvp": false,
+        "description": "Для прохождения нужно 3 игрока из одного клана"
+    }
+]

@@ -181,3 +181,11 @@ body {
 .tool-level .price {
     align-self: flex-start;
 }
+
+.boss {
+    display: grid;
+}
+
+.boss h4 {
+    margin: 0;
+}
