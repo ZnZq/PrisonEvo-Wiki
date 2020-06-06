@@ -69,7 +69,7 @@ webix.ajax('data/shafts.json', function (text) {
                             ${blocks.join('')}
                         </div>
                     `,
-                    expire: 60000
+                    expire: 6000
                 });
             }
         },
