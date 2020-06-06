@@ -41,6 +41,38 @@ webix.ajax('data/shafts.json', function (text) {
                 </div>
             `;
         },
+        on: {
+            onItemClick: function (id) {
+                let obj = this.getItem(id);
+                let blocks = [];
+                for (let i = 0; i < obj.blocks.length; i++) {
+                    let block = obj.blocks[i];
+                    blocks.push(`
+                        <div class="block">
+                            <img class="icon" src="icon/${block.icon}.png" alt="${block.icon}" style="width:32px;height:32px;" title="${block.name}">
+                            <span>${block.name} ${block.price} ${(isNaN(Number.parseInt(block.price[0])) ? '' : '$')}</span>
+                        </div>
+                    `);
+                }
+                if (obj.description) {
+                    blocks.push(`<span style="padding:10px">${obj.description}</span>`);
+                }
+
+                for (let obj in webix.message.pull) {
+                    webix.message.hide(obj)
+                }
+
+                webix.message({
+                    text: `
+                        <h3 style="margin:0;text-align:center;">${obj.name}</h3>
+                        <div class="blocks">
+                            ${blocks.join('')}
+                        </div>
+                    `,
+                    expire: 60000
+                });
+            }
+        },
         data: json
     }], $$('body'));
 

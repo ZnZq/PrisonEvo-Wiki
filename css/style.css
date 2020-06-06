@@ -66,6 +66,14 @@ body {
     padding: 2px 0px !important;
 }
 
+.webix_message div {
+    padding: 5px 6px;
+}
+
+.blocks {
+    margin: 0;
+}
+
 .blocks .block {
     display: flex;
     align-items: center;
