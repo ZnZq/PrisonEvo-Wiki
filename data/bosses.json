@@ -125,7 +125,7 @@
         "name": "Проклятый легион",
         "hp": "???",
         "raid": true,
-        "timeout": "???",
+        "timeout": "8 Часов",
         "level": "95",
         "pvp": false
     },
