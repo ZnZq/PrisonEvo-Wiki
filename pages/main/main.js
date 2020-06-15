@@ -16,7 +16,7 @@ webix.ui([{
                 Так же есть список рун, где описаны их характеристики. 
                 <br>
                 <br>
-                Помогали следующие игроки: Mr_Bother, assest, VVVIP, _DShadow_, DontiMonti, CaptainFoxMm
+                Помогали следующие игроки: Mr_Bother, assest, VVVIP, _DShadow_, DontiMonti, CaptainFoxMm, Erunamo
             </p>
         `
 }], $$('body'));

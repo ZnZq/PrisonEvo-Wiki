@@ -36,7 +36,7 @@
         "name": "Близнецы. Зомби - Воин / Зомби - Колдун",
         "hp": "1000 / 5000",
         "raid": true,
-        "timeout": "???",
+        "timeout": "2 Часа",
         "level": "35",
         "pvp": false,
         "description": "Пока Зомби - Воин жив, Зомби - Колдун не получает урона"
@@ -45,7 +45,7 @@
         "name": "Повелитель огня",
         "hp": "2000",
         "raid": false,
-        "timeout": "???",
+        "timeout": "1 Час",
         "level": "40",
         "pvp": true
     },
@@ -53,7 +53,7 @@
         "name": "Паучиха",
         "hp": "10000",
         "raid": true,
-        "timeout": "???",
+        "timeout": "3 Часа",
         "level": "45",
         "pvp": false
     },
@@ -85,7 +85,7 @@
         "name": "Разбойник",
         "hp": "2600",
         "raid": false,
-        "timeout": "???",
+        "timeout": "2 Часа 30 Минут",
         "level": "70",
         "pvp": true
     },
@@ -93,7 +93,7 @@
         "name": "Лавовый куб",
         "hp": "???",
         "raid": true,
-        "timeout": "???",
+        "timeout": "6 Часов",
         "level": "75",
         "pvp": false
     },
@@ -101,7 +101,7 @@
         "name": "Призрачный охотник",
         "hp": "???",
         "raid": false,
-        "timeout": "???",
+        "timeout": "3 Часа",
         "level": "80",
         "pvp": true
     },
@@ -115,7 +115,7 @@
     },
     {
         "name": "Гигант",
-        "hp": "???",
+        "hp": "4000",
         "raid": false,
         "timeout": "???",
         "level": "90",
@@ -139,7 +139,7 @@
     },
     {
         "name": "Пожиратель тьмы",
-        "hp": "???",
+        "hp": "5500",
         "raid": false,
         "timeout": "???",
         "level": "110",
