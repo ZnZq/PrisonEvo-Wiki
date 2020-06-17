@@ -61,7 +61,7 @@
         "name": "Утопленник",
         "hp": "2000",
         "raid": false,
-        "timeout": "???",
+        "timeout": "1 Час 30 Минут",
         "level": "50",
         "pvp": true
     },
@@ -72,6 +72,14 @@
         "timeout": "4 Часа",
         "level": "55",
         "pvp": false
+    },
+    {
+        "name": "Смерть",
+        "hp": "2500",
+        "raid": false,
+        "timeout": "2 Часа",
+        "level": "60",
+        "pvp": true
     },
     {
         "name": "Наездник. Паук / Скелет",
@@ -91,7 +99,7 @@
     },
     {
         "name": "Лавовый куб",
-        "hp": "???",
+        "hp": "7000",
         "raid": true,
         "timeout": "6 Часов",
         "level": "75",
@@ -117,7 +125,7 @@
         "name": "Гигант",
         "hp": "4000",
         "raid": false,
-        "timeout": "???",
+        "timeout": "3 Часа 30 Минут",
         "level": "90",
         "pvp": true
     },
@@ -133,7 +141,7 @@
         "name": "Монстр",
         "hp": "5000",
         "raid": false,
-        "timeout": "???",
+        "timeout": "4 Часа",
         "level": "100",
         "pvp": true
     },
@@ -141,7 +149,7 @@
         "name": "Пожиратель тьмы",
         "hp": "5500",
         "raid": false,
-        "timeout": "???",
+        "timeout": "4 Часа 30 Минут",
         "level": "110",
         "pvp": true
     },
