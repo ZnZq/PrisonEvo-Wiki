@@ -69,7 +69,7 @@
         "name": "Колдун",
         "hp": "10000",
         "raid": true,
-        "timeout": "???",
+        "timeout": "4 Часа",
         "level": "55",
         "pvp": false
     },
