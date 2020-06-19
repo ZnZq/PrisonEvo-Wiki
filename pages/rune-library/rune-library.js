@@ -11,6 +11,7 @@ webix.ui([{
                 <li>Уровень III - 9 шарда</li>
 
                 <li>Лег. Уровень I - 6 шарда</li>
+                <li>Лег. Уровень II - 12 шарда</li>
             </ul><br>
             <span>Соединение рун</span>
             <ul style="margin: 0; padding-left: 16px">
