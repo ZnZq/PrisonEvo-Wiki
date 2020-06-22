@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "minecraft__stone_shovel__{Damage__0}",
+        "name": "Каменная лопата",
+        "price": "16B"
+    },
+    {
+        "icon": "minecraft__stone_shovel__{Damage__0}",
+        "name": "Каменная лопата. Эфф 1",
+        "price": "16B"
+    },
+    {
+        "icon": "minecraft__stone_shovel__{Damage__0}",
+        "name": "Каменная лопата. Эфф 3",
+        "price": "27B"
+    }
+]

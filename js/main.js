@@ -106,19 +106,24 @@ webix.ready(function () {
                     value: "Уровень"
                   },
                   {
+                    id: "sword_level",
+                    icon: "mdi mdi-sword",
+                    value: "Меч"
+                  },
+                  {
                     id: "pickaxe_level",
                     icon: "mdi mdi-call-made",
                     value: "Кирка"
                   },
                   {
+                    id: "shovel_level",
+                    icon: "mdi mdi-silverware-spoon",
+                    value: "Лопата"
+                  },
+                  {
                     id: "axe_level",
                     icon: "mdi mdi-tree",
                     value: "Топор"
-                  },
-                  {
-                    id: "sword_level",
-                    icon: "mdi mdi-sword",
-                    value: "Меч"
                   },
                   {
                     id: "armor_level",
