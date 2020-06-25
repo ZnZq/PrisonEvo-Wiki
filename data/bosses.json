@@ -25,9 +25,9 @@
     },
     {
         "name": "Кошмар",
-        "hp": "???",
+        "hp": "1500",
         "raid": false,
-        "timeout": "???",
+        "timeout": "45 Минут",
         "level": "30",
         "pvp": false,
         "description": "Нужна привелегия BigBoss"
