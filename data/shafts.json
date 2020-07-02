@@ -958,7 +958,7 @@
     },
     {
         "icon": "minecraft__cyan_shulker_box",
-        "level": "111",
+        "level": "110",
         "pvp": true,
         "name": "Шалкеры VIII",
         "description": "Повышенный шанс выпадения шардов",
@@ -972,7 +972,7 @@
     },
     {
         "icon": "minecraft__pumpkin",
-        "level": "113",
+        "level": "111",
         "pvp": true,
         "name": "Ферма I",
         "blocks": [
@@ -985,7 +985,7 @@
     },
     {
         "icon": "minecraft__pumpkin",
-        "level": "115",
+        "level": "113",
         "pvp": true,
         "name": "Ферма II",
         "blocks": [
@@ -1003,7 +1003,7 @@
     },
     {
         "icon": "minecraft__pumpkin",
-        "level": "117",
+        "level": "115",
         "pvp": true,
         "name": "Ферма III",
         "blocks": [
@@ -1016,7 +1016,7 @@
     },
     {
         "icon": "minecraft__jungle_wood",
-        "level": "119",
+        "level": "117",
         "pvp": true,
         "name": "Тропическое дерево I",
         "blocks": [
@@ -1029,7 +1029,7 @@
     },
     {
         "icon": "minecraft__jungle_wood",
-        "level": "121",
+        "level": "119",
         "pvp": true,
         "name": "Тропическое дерево II",
         "blocks": [
@@ -1042,7 +1042,7 @@
     },
     {
         "icon": "minecraft__jungle_wood",
-        "level": "123",
+        "level": "121",
         "pvp": true,
         "name": "Тропическое дерево III",
         "blocks": [
@@ -1055,7 +1055,7 @@
     },
     {
         "icon": "minecraft__purple_shulker_box",
-        "level": "124",
+        "level": "122",
         "pvp": true,
         "name": "Шалкеры IX",
         "description": "Повышенный шанс выпадения шардов",
@@ -1069,7 +1069,7 @@
     },
     {
         "icon": "minecraft__packed_ice",
-        "level": "125",
+        "level": "123",
         "pvp": true,
         "name": "Лёд I",
         "blocks": [
@@ -1087,7 +1087,7 @@
     },
     {
         "icon": "minecraft__packed_ice",
-        "level": "127",
+        "level": "125",
         "pvp": true,
         "name": "Лёд II",
         "blocks": [
@@ -1100,7 +1100,7 @@
     },
     {
         "icon": "minecraft__packed_ice",
-        "level": "129",
+        "level": "127",
         "pvp": true,
         "name": "Лёд III",
         "blocks": [
@@ -1108,6 +1108,55 @@
                 "icon": "minecraft__snowball",
                 "name": "Снежок",
                 "price": "1.3М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__packed_ice",
+        "level": "129",
+        "pvp": true,
+        "name": "Земля I",
+        "blocks": [
+            {
+                "icon": "minecraft__dirt",
+                "name": "Земля",
+                "price": "1.5М"
+            },
+            {
+                "icon": "minecraft__coarse_dirt",
+                "name": "Плотная земля",
+                "price": "1.8М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__packed_ice",
+        "level": "131",
+        "pvp": true,
+        "name": "Земля II",
+        "blocks": [
+            {
+                "icon": "minecraft__coarse_dirt",
+                "name": "Плотная земля",
+                "price": "1.8М"
+            }
+        ]
+    },
+    {
+        "icon": "minecraft__packed_ice",
+        "level": "133",
+        "pvp": true,
+        "name": "Земля III",
+        "blocks": [
+            {
+                "icon": "minecraft__gravel",
+                "name": "Гравий",
+                "price": "2М"
+            },
+            {
+                "icon": "minecraft__flint",
+                "name": "Кремень",
+                "price": "2М"
             }
         ]
     }
