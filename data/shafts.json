@@ -1112,7 +1112,7 @@
         ]
     },
     {
-        "icon": "minecraft__packed_ice",
+        "icon": "minecraft__dirt",
         "level": "129",
         "pvp": true,
         "name": "Земля I",
@@ -1130,7 +1130,7 @@
         ]
     },
     {
-        "icon": "minecraft__packed_ice",
+        "icon": "minecraft__dirt",
         "level": "131",
         "pvp": true,
         "name": "Земля II",
@@ -1143,7 +1143,7 @@
         ]
     },
     {
-        "icon": "minecraft__packed_ice",
+        "icon": "minecraft__dirt",
         "level": "133",
         "pvp": true,
         "name": "Земля III",
